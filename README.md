@@ -76,7 +76,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+ <img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+
 </p>
 
 ---
@@ -92,7 +93,7 @@
 ## ✨✍️ Dev Quote of the Day ✨
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -104,4 +105,3 @@
 </p>
 
 ---
-

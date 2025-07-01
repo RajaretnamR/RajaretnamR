@@ -67,8 +67,8 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=RajaretnamR&theme=github-dark&hide_border=false" />
   <br/>
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaretnamR&theme=github_dark&layout=compact&size_weight=0&count_weight=1&exclude_repo=test-python,python-projects,ipynb-notes,jupyter-stuff,sample-ai" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaretnamR&theme=github_dark&layout=compact&size_weight=0&count_weight=1&exclude_repo=test-python,python-projects,ipynb-notes,jupyter-stuff,sample-ai" />
+
 </p>
 
 ---

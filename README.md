@@ -73,5 +73,35 @@
 
 ---
 
+## 🏆 GitHub Trophies
 
-[![Raja retnam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&bg_color=000000&color=f2f2f2&line=19a936&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✨✍️ Dev Quote of the Day ✨
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
+---
+
+## 🔝 Most Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RajaretnamR&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+

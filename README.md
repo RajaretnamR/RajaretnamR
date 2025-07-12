@@ -11,12 +11,11 @@
 
 **📚 B.Tech CSE | Code-Driven & Career-Focused 💼**
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
-
-
 - 🔭 Building blazing-fast UIs & reliable APIs
 - 🚀 Exploring: React, TypeScript, DSA & Problem Solving 
 - 🎯 Aiming for FAANG placements through consistent learning.   
-- 🧠 Fun Fact: I automate boring stuff before coffee 😎 
+- 🧠 Fun Fact: I automate boring stuff before coffee 😎
+  
 ## 🌐 Connect With Me
 
 <p align="center">

@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <strong>🚀 MERN Stack | <span style="color:#00bcd4;">Design-Driven</span>, Code-Focused, Future-Built 🔥</strong>
+  <strong>Software Developer | Creating Efficient & Meaningful Digital Solutions</strong>
 </h3>
 
 ---

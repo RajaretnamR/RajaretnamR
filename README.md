@@ -8,14 +8,14 @@
 
 ---
 
-
-**📚 B.Tech CSE | Code-Driven & Career-Focused 💼**
+**📚 B.Tech CSE | Software Engineering & Product Development**
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
-- 🔭 Building blazing-fast UIs & reliable APIs
-- 🚀 Exploring: React, TypeScript, DSA & Problem Solving 
-- 🎯 Aiming for FAANG placements through consistent learning.   
-- 🧠 Fun Fact: I automate boring stuff before coffee 😎
+- 🔭 Building scalable full-stack applications, real-time systems, and efficient backend APIs
+- 🚀 Working with Java, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and Rust
+- 🧠 Strengthening Data Structures & Algorithms, problem-solving, and modern software engineering practices
+- ⚡ Passionate about backend engineering, distributed systems, and impactful product development
+
 
   
 ## 🌐 Connect With Me
@@ -29,35 +29,40 @@
   <a href="mailto:rajaretnam.rajasekar@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
-
-   <!-- Instagram -->
-  <a href="https://www.instagram.com/__.appu_14/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
-  </a>
 </p>
 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,bootstrap" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,rust" />
 </p>
 
-### 🛠️ Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,figma,npm" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+</p>
+
+### Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws,firebase,vercel,vscode" />
 </p>
 
 ---
 
-## 💻 My Gear Setup
+## 💻 Development Environment
 
-| 💻 Laptop             | 🧠 Processor                    | 🎮 Graphics        | 🔋 RAM     |
-|-----------------------|----------------------------------|--------------------|------------|
-| HP Laptop 15s-fr2xxx  | Intel Core i3-1115G4 (11th Gen) | Intel UHD Graphics | 8GB DDR4   |
+| 💻 Laptop              | 🧠 Processor                          | 🎮 Graphics                     | 🔋 RAM        | 💾 Storage |
+|------------------------|----------------------------------------|----------------------------------|---------------|------------|
+| ASUS TUF Gaming A15    | AMD Ryzen 7 7445HS (3.20 GHz)         | NVIDIA GeForce RTX 3050 (4GB)   | 16GB DDR5     | 477GB SSD  |
 
 ---
 
@@ -65,13 +70,20 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaretnamR&theme=dark&show_icons=true&&hide=issues,contribs"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=RajaretnamR&theme=dark&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaretnamR&theme=github_dark&layout=compact&size_weight=0&count_weight=1&exclude_repo=test-python,python-projects,ipynb-notes,jupyter-stuff,sample-ai" />
 
 </p>
+
+---
+
+## Current Focus
+
+- Software Development Engineering
+- Backend Development
+- Distributed Systems
+- Data Structures & Algorithms
+- Full-Stack Product Development
 
 ---
 

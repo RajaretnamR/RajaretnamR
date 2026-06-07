@@ -1,121 +1,200 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Raja!;Aspiring+MERN+Stack+Developer+🧠;Crafting+Real-Time+Web+Magic+✨;Fuelled+by+Curiosity+%26+Code+⚙️" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-  <strong>Software Developer | Creating Efficient & Meaningful Digital Solutions</strong>
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00ff88&height=200&section=header&text=RAJA%20RETNAM&fontSize=60&fontColor=00ff88&fontAlignY=55&desc=Software%20Developer%20%7C%20SRM%20Trichy&descAlignY=75&descSize=16&descColor=475569&animation=fadeIn" width="100%" />
 
----
+<br/>
 
-**📚 B.Tech CSE | Software Engineering & Product Development**
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Rust+%2B+WebRTC+Enthusiast;FAANG+Placement+Prep+%7C+DSA+Grinder+%F0%9F%94%A5;Building+p2ptransfer.app+in+Production;B.Tech+CSE+%7C+SRM+Trichy+%7C+Batch+2023-27;Open+to+SDE-1+%2F+SDE-2+Opportunities" alt="Typing SVG" />
 
-- 🔭 Building scalable full-stack applications, real-time systems, and efficient backend APIs
-- 🚀 Working with Java, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and Rust
-- 🧠 Strengthening Data Structures & Algorithms, problem-solving, and modern software engineering practices
-- ⚡ Passionate about backend engineering, distributed systems, and impactful product development
+<br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=RajaretnamR&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raja--retnam-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-retnam/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajaretnam.in-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://rajaretnam.in)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajaretnam.rajasekar@gmail.com)
+&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-8.2-00d4ff?style=flat-square)
+&nbsp;
+![Open To Work](https://img.shields.io/badge/Open%20To-SDE%20Roles-00ff88?style=flat-square)
 
-  
-## 🌐 Connect With Me
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/raja-retnam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:rajaretnam.rajasekar@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
-  </a>
-</p>
-
+</div>
 
 ---
 
-## Tech Stack
+## `> whoami`
+
+```json
+{
+  "name"              : "Raja Retnam R",
+  "role"              : "Full Stack Developer | SDE-1/SDE-2 Aspirant",
+  "education"         : "B.Tech CSE @ SRM Trichy (2023-27)",
+  "location"          : "Tamil Nadu, India",
+  "currently_building": "p2ptransfer.app — P2P file transfer via WebRTC + Rust",
+  "interests"         : ["Distributed Systems", "Backend Engineering", "Product Dev"],
+  "fun_fact"          : "Ex-college athlete → now I sprint through LeetCode",
+  "open_to"           : "On-campus placements | FAANG / Product-based companies"
+}
+```
+
+---
+
+## `> cat about.md`
+
+- 🔭 &nbsp;Building **p2ptransfer.app** — production P2P file transfer with Rust/Axum + WebRTC DataChannel
+- ⚡ &nbsp;**AI Form Helper** Chrome extension — 30+ organic users, powered by Groq API + LLaMA 3.3 70B
+- 🧠 &nbsp;Active **DSA prep** in Java — two-pointer, sliding window, binary search, DP, Graphs
+- 🎯 &nbsp;Targeting **FAANG-level SDE-1/2** via on-campus placements (Batch 2027)
+- 🌐 &nbsp;Personal portfolio at **[rajaretnam.in](https://rajaretnam.in)** — React/TS + Framer Motion + GSAP
+- 🦀 &nbsp;Genuinely passionate about **Rust** and systems-level backend engineering
+
+---
+
+## `> tech --stack`
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,rust" />
+<img src="https://skillicons.dev/icons?i=java,rust,ts,js&theme=dark" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
 </p>
 
-### Backend
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
 </p>
 
 ### Tools & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws,firebase,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws,firebase,vercel,vscode&theme=dark" />
 </p>
 
 ---
 
-## 💻 Development Environment
+## `> ls ./projects`
 
-| 💻 Laptop              | 🧠 Processor                          | 🎮 Graphics                     | 🔋 RAM        | 💾 Storage |
-|------------------------|----------------------------------------|----------------------------------|---------------|------------|
-| ASUS TUF Gaming A15    | AMD Ryzen 7 7445HS (3.20 GHz)         | NVIDIA GeForce RTX 3050 (4GB)   | 16GB DDR5     | 477GB SSD  |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🦀 p2ptransfer.app
 
-## 📊 GitHub Stats
+![Status](https://img.shields.io/badge/Status-Production-00ff88?style=flat-square)
+![Live](https://img.shields.io/badge/Live-p2ptransfer.app-00d4ff?style=flat-square&logo=vercel&logoColor=white)
 
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=RajaretnamR&theme=dark&hide_border=true"/>
-  <br/>
+Serverless browser-to-browser P2P file transfer via **WebRTC DataChannel**. SHA-256 integrity verification. Cross-network transfer support. Signaling backend in **Rust/Axum** with WebSocket keep-alive.
 
-</p>
+`Rust` `Axum` `WebRTC` `Next.js 15` `WebSockets` `TypeScript`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Current Focus
+### 🤖 AI Form Helper
 
-- Software Development Engineering
-- Backend Development
-- Distributed Systems
-- Data Structures & Algorithms
-- Full-Stack Product Development
+![Users](https://img.shields.io/badge/Users-30%2B%20Organic-fbbf24?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
----
+Chrome extension for intelligent form auto-completion using **Groq API + LLaMA 3.3 70B**. Batch-processes form fields. 30+ organic installs with zero paid promotion.
 
-## 🏆 GitHub Trophies
+`Chrome APIs` `Groq API` `LLaMA 3.3 70B` `TypeScript`
 
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## `> git stats --user RajaretnamR`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajaretnamR&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaretnamR&layout=compact&hide_border=true&title_color=00ff88&text_color=94a3b8&bg_color=0d1117&langs_count=8" height="160" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=RajaretnamR&theme=dark&hide_border=true&background=0d1117&stroke=1e293b&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=334155" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&hide_border=true&area_color=00ff88" width="98%" />
+
+</div>
+
+---
+
+## `> cat current_focus.txt`
+
+```
+[■■■■■■■■■■] DSA (Java)           — Arrays, Trees, Graphs, DP
+[■■■■■■■■░░] System Design        — HLD/LLD, Distributed Systems
+[■■■■■■■░░░] Backend Engineering  — Rust, Axum, WebSockets
+[■■■■■■░░░░] Full Stack Product   — Next.js 15, TypeScript, MongoDB
+[■■■■■░░░░░] Interview Prep       — OS, DBMS, CN, OOP Core CS
+```
 
 ---
 
-## ✍️ Dev Quote of the Day ✨
+## `> neofetch --hardware`
 
-<p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+| Component | Spec |
+|-----------|------|
+| 💻 Machine | ASUS TUF Gaming A15 |
+| 🧠 CPU | AMD Ryzen 7 7445HS (3.20 GHz) |
+| 🎮 GPU | NVIDIA GeForce RTX 3050 (4GB) |
+| 🔋 RAM | 16GB DDR5 |
+| 💾 Storage | 477GB SSD |
+| 🖥️ OS | Linux / Windows Dual Boot |
+
+---
+
+## `> trophy --display`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" />
+</div>
 
 ---
 
-## 🔝 Most Contributed Repos
+## `> snake --contribution-graph`
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RajaretnamR&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake-dark.svg" width="98%" />
+</picture>
+</div>
 
 ---
+
+## `> cat /etc/quote`
+
+> *"First, solve the problem. Then, write the code."*  
+> — John Johnson
+
+---
+
+## `> connect --all`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-retnam/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaretnam.rajasekar@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://rajaretnam.in)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-e2e8f0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RajaretnamR)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=100&section=footer&text=crafted%20with%20%E2%98%95%20%2B%20%F0%9F%A6%80%20%2B%20%E2%88%9E%20curiosity&fontSize=14&fontColor=475569&fontAlignY=65" width="100%" />
+
+</div>

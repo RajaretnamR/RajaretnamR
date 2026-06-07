@@ -1,4 +1,4 @@
-<!-- <img width="807" height="346" alt="image" src="https://github.com/user-attachments/assets/6e1f0d23-3011-40af-8d60-9ec0b23ef029" /><div align="center"> -->
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00ff88&height=200&section=header&text=RAJA%20RETNAM&fontSize=60&fontColor=00ff88&fontAlignY=55&desc=Software%20Developer%20%7C%20SRM%20Trichy&descAlignY=75&descSize=16&descColor=475569&animation=fadeIn" width="100%" />
 
@@ -6,23 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Rust+%2B+WebRTC+Enthusiast;FAANG+Placement+Prep+%7C+DSA+Grinder+%F0%9F%94%A5;Building+p2ptransfer.app+in+Production;B.Tech+CSE+%7C+SRM+Trichy+%7C+Batch+2023-27;Open+to+SDE-1+%2F+SDE-2+Opportunities" alt="Typing SVG" />
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RajaretnamR&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raja--retnam-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-retnam/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajaretnam.in-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://rajaretnam.in)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajaretnam.rajasekar@gmail.com)
-&nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-8.2-00d4ff?style=flat-square)
-&nbsp;
-![Open To Work](https://img.shields.io/badge/Open%20To-SDE%20Roles-00ff88?style=flat-square)
-
 </div>
-
----
 
 ## `> whoami`
 

@@ -153,17 +153,12 @@ Chrome extension for intelligent form auto-completion using **Groq API + LLaMA 3
 
 ---
 
-## `> snake --contribution-graph`
+## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-snake-dark.svg" width="98%" />
-</picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
----
 
 ## `> cat /etc/quote`
 

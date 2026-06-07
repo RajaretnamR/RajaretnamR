@@ -1,4 +1,4 @@
-<img width="807" height="346" alt="image" src="https://github.com/user-attachments/assets/6e1f0d23-3011-40af-8d60-9ec0b23ef029" /><div align="center">
+<!-- <img width="807" height="346" alt="image" src="https://github.com/user-attachments/assets/6e1f0d23-3011-40af-8d60-9ec0b23ef029" /><div align="center"> -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,00ff88&height=200&section=header&text=RAJA%20RETNAM&fontSize=60&fontColor=00ff88&fontAlignY=55&desc=Software%20Developer%20%7C%20SRM%20Trichy&descAlignY=75&descSize=16&descColor=475569&animation=fadeIn" width="100%" />
 

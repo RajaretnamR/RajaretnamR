@@ -100,70 +100,34 @@ Chrome extension for intelligent form auto-completion using **Groq API + LLaMA 3
 
 ---
 
-## `> git stats --user RajaretnamR`
+## `> contribution analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RajaretnamR&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00d4ff&text_color=94a3b8&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaretnamR&layout=compact&hide_border=true&title_color=00ff88&text_color=94a3b8&bg_color=0d1117&langs_count=8" height="160" />
+<img src="https://streak-stats.demolab.com?user=RajaretnamR&theme=github-dark-blue&hide_border=true&background=0D1117" width="60%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RajaretnamR&theme=dark&hide_border=true&background=0d1117&stroke=1e293b&ring=00ff88&fire=00d4ff&currStreakLabel=00ff88&sideLabels=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=334155" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff88&line=00d4ff&point=00ff88&area=true" width="98%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaretnamR&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&area=true&hide_border=true&area_color=00ff88" width="98%" />
+<img src="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
 ---
 
-## `> cat current_focus.txt`
 
+## `> current_focus`
+
+```text
+DSA (Java)            → Arrays, Trees, Graphs, Dynamic Programming
+System Design         → HLD, LLD, Distributed Systems
+Backend Engineering   → Rust, Axum, WebSockets
+Full Stack Product    → Next.js 15, TypeScript, MongoDB
+Interview Preparation → OS, DBMS, CN, OOP
 ```
-[■■■■■■■■■■] DSA (Java)           — Arrays, Trees, Graphs, DP
-[■■■■■■■■░░] System Design        — HLD/LLD, Distributed Systems
-[■■■■■■■░░░] Backend Engineering  — Rust, Axum, WebSockets
-[■■■■■■░░░░] Full Stack Product   — Next.js 15, TypeScript, MongoDB
-[■■■■■░░░░░] Interview Prep       — OS, DBMS, CN, OOP Core CS
-```
-
----
-
-## `> neofetch --hardware`
-
-| Component | Spec |
-|-----------|------|
-| 💻 Machine | ASUS TUF Gaming A15 |
-| 🧠 CPU | AMD Ryzen 7 7445HS (3.20 GHz) |
-| 🎮 GPU | NVIDIA GeForce RTX 3050 (4GB) |
-| 🔋 RAM | 16GB DDR5 |
-| 💾 Storage | 477GB SSD |
-| 🖥️ OS | Linux / Windows Dual Boot |
-
----
-
-## `> trophy --display`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RajaretnamR&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajaretnamR/RajaretnamR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-## `> cat /etc/quote`
-
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
 
 ---
 
@@ -179,8 +143,8 @@ Chrome extension for intelligent form auto-completion using **Groq API + LLaMA 3
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-e2e8f0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/RajaretnamR)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00ff88&height=100&section=footer&text=crafted%20with%20%E2%98%95%20%2B%20%F0%9F%A6%80%20%2B%20%E2%88%9E%20curiosity&fontSize=14&fontColor=475569&fontAlignY=65" width="100%" />
-
 </div>
+
+---
+
+

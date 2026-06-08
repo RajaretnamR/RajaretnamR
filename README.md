@@ -18,9 +18,9 @@
 
 ## `> cat about.md`
 
-<div align="center">
-  <img src="./about.svg" width="100%" />
-</div>
+<a href="https://p2ptransfer.app"><img src="./card1.svg" width="49%" /></a><a href="https://chromewebstore.google.com/detail/quizbot-ai/eofcjnghgenmffccgkapnibajagkfoao"><img src="./card2.svg" width="49%" /></a>
+
+<a href="https://leetcode.com/u/Raja_retnam/"><img src="./card3.svg" width="49%" /></a><a href="https://rajaretnam.in"><img src="./card4.svg" width="49%" /></a>
 ---
 
 ## `> tech --stack`

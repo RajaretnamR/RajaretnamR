@@ -18,13 +18,9 @@
 
 ## `> cat about.md`
 
-- 🔭 &nbsp;Building **p2ptransfer.app** — production P2P file transfer with Rust/Axum + WebRTC DataChannel
-- ⚡ &nbsp;**AI Form Helper** Chrome extension — 30+ organic users, powered by Groq API + LLaMA 3.3 70B
-- 🧠 &nbsp;Active **DSA prep** in Java — two-pointer, sliding window, binary search, DP, Graphs
-- 🎯 &nbsp;Targeting **FAANG-level SDE-1/2** via on-campus placements (Batch 2027)
-- 🌐 &nbsp;Personal portfolio at **[rajaretnam.in](https://rajaretnam.in)** — React/TS + Framer Motion + GSAP
-- 🦀 &nbsp;Genuinely passionate about **Rust** and systems-level backend engineering
-
+<div align="center">
+  <img src="./about.svg" width="100%" />
+</div>
 ---
 
 ## `> tech --stack`

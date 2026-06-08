@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="390" height="200">
+  <style>
+    .font-mono { font-family: 'Courier New', Courier, monospace; }
+    .label { font-size: 10px; font-weight: bold; letter-spacing: 2px; }
+    .title { font-size: 15px; font-weight: bold; fill: #f0f6fc; }
+    .desc { font-size: 12px; fill: #8b949e; }
+    .tag-text { font-size: 10px; font-weight: bold; }
+  </style>
+  <rect width="390" height="200" fill="#0d1117" rx="0"/>
+  <rect width="386" height="196" x="2" y="2" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="2" y="10" width="3" height="178" fill="#3fb950"/>
+  <text x="18" y="30" fill="#3fb950" class="font-mono label">PRODUCTION ↗</text>
+  <text x="18" y="52" class="font-mono title">p2ptransfer.app</text>
+  <text x="18" y="72" class="font-mono desc">
+    <tspan x="18" dy="0">Serverless P2P file transfer via WebRTC</tspan>
+    <tspan x="18" dy="16">DataChannel. SHA-256 integrity. Rust/Axum</tspan>
+    <tspan x="18" dy="16">signaling backend. 50MB+ cross-network.</tspan>
+  </text>
+  <g transform="translate(18, 148)">
+    <rect width="45" height="22" rx="4" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-opacity="0.3"/>
+    <text x="22.5" y="15" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">Rust</text>
+  </g>
+  <g transform="translate(70, 148)">
+    <rect width="58" height="22" rx="4" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-opacity="0.3"/>
+    <text x="29" y="15" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">WebRTC</text>
+  </g>
+  <g transform="translate(135, 148)">
+    <rect width="82" height="22" rx="4" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-opacity="0.3"/>
+    <text x="41" y="15" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">Next.js 15</text>
+  </g>
+</svg>

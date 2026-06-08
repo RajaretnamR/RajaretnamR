@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 200" width="390" height="200">
+  <style>
+    .font-mono { font-family: 'Courier New', Courier, monospace; }
+    .label { font-size: 10px; font-weight: bold; letter-spacing: 2px; }
+    .title { font-size: 15px; font-weight: bold; fill: #f0f6fc; }
+    .desc { font-size: 12px; fill: #8b949e; }
+    .tag-text { font-size: 10px; font-weight: bold; }
+  </style>
+  <rect width="390" height="200" fill="#0d1117" rx="0"/>
+  <rect width="386" height="196" x="2" y="2" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="2" y="10" width="3" height="178" fill="#a78bfa"/>
+  <text x="18" y="30" fill="#a78bfa" class="font-mono label">PORTFOLIO ↗</text>
+  <text x="18" y="52" class="font-mono title">rajaretnam.in</text>
+  <text x="18" y="72" class="font-mono desc">
+    <tspan x="18" dy="0">Cinematic React/TS portfolio from scratch.</tspan>
+    <tspan x="18" dy="16">Framer Motion + GSAP animations. Intro</tspan>
+    <tspan x="18" dy="16">screen, gate animation, hero video — custom.</tspan>
+  </text>
+  <g transform="translate(18, 148)">
+    <rect width="75" height="22" rx="4" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.3"/>
+    <text x="37.5" y="15" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">React/TS</text>
+  </g>
+  <g transform="translate(100, 148)">
+    <rect width="102" height="22" rx="4" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.3"/>
+    <text x="51" y="15" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">Framer Motion</text>
+  </g>
+  <g transform="translate(209, 148)">
+    <rect width="45" height="22" rx="4" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.3"/>
+    <text x="22.5" y="15" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">GSAP</text>
+  </g>
+</svg>

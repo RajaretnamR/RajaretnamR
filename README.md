@@ -18,8 +18,6 @@
 
 ## `> cat about.md`
 
-<a href="https://p2ptransfer.app"><img src="./card1.svg" width="49%" /></a><a href="https://chromewebstore.google.com/detail/quizbot-ai/eofcjnghgenmffccgkapnibajagkfoao"><img src="./card2.svg" width="49%" /></a>
-
 <a href="https://leetcode.com/u/Raja_retnam/"><img src="./card3.svg" width="49%" /></a><a href="https://rajaretnam.in"><img src="./card4.svg" width="49%" /></a>
 ---
 
@@ -49,34 +47,7 @@
 
 ## `> ls ./projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦀 p2ptransfer.app
-
-![Status](https://img.shields.io/badge/Status-Production-00ff88?style=flat-square)
-![Live](https://img.shields.io/badge/Live-p2ptransfer.app-00d4ff?style=flat-square&logo=vercel&logoColor=white)
-
-Serverless browser-to-browser P2P file transfer via **WebRTC DataChannel**. SHA-256 integrity verification. Cross-network transfer support. Signaling backend in **Rust/Axum** with WebSocket keep-alive.
-
-`Rust` `Axum` `WebRTC` `Next.js 15` `WebSockets` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Form Helper
-
-![Users](https://img.shields.io/badge/Users-30%2B%20Organic-fbbf24?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-Chrome extension for intelligent form auto-completion using **Groq API + LLaMA 3.3 70B**. Batch-processes form fields. 30+ organic installs with zero paid promotion.
-
-`Chrome APIs` `Groq API` `LLaMA 3.3 70B` `TypeScript`
-
-</td>
-</tr>
-</table>
+<a href="https://p2ptransfer.app"><img src="./card1.svg" width="49%" /></a><a href="https://chromewebstore.google.com/detail/quizbot-ai/eofcjnghgenmffccgkapnibajagkfoao"><img src="./card2.svg" width="49%" /></a>
 
 ---
 

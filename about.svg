@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <style>
+    .bg { fill: #0d1117; }
+    .card-bg { fill: #161b22; stroke: #21262d; stroke-width: 1px; }
+    .font-mono { font-family: 'Courier New', Courier, monospace; }
+    .label { font-size: 10px; font-weight: bold; letter-spacing: 2px; }
+    .title { font-size: 15px; font-weight: bold; fill: #f0f6fc; }
+    .desc { font-size: 12px; fill: #8b949e; }
+    .tag-text { font-size: 10px; font-weight: bold; }
+    .card-link { cursor: pointer; }
+    .card-link:hover .card-bg { fill: #1c2128; }
+  </style>
+
+  <rect width="800" height="420" class="bg" />
+
+  <!-- Card 1: p2ptransfer.app -->
+  <a href="https://www.p2ptransfer.app/" target="_blank">
+    <g transform="translate(20, 20)" class="card-link">
+      <rect width="374" height="184" rx="8" class="card-bg" />
+      <rect x="0" y="8" width="3" height="168" fill="#3fb950" />
+      <text x="16" y="28" fill="#3fb950" class="font-mono label">PRODUCTION ↗</text>
+      <text x="16" y="48" class="font-mono title">p2ptransfer.app</text>
+      <text x="16" y="68" class="font-mono desc">
+        <tspan x="16" dy="0">Serverless P2P file transfer via WebRTC</tspan>
+        <tspan x="16" dy="16">DataChannel. SHA-256 integrity. Rust/Axum</tspan>
+        <tspan x="16" dy="16">signaling backend. Handles 50MB+ cross-</tspan>
+        <tspan x="16" dy="16">network transfers.</tspan>
+      </text>
+      <g transform="translate(16, 148)">
+        <rect width="45" height="20" rx="4" fill="#3fb950" fill-opacity="0.083" stroke="#3fb950" stroke-opacity="0.25" />
+        <text x="22.5" y="14" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">Rust</text>
+      </g>
+      <g transform="translate(67, 148)">
+        <rect width="58" height="20" rx="4" fill="#3fb950" fill-opacity="0.083" stroke="#3fb950" stroke-opacity="0.25" />
+        <text x="29" y="14" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">WebRTC</text>
+      </g>
+      <g transform="translate(131, 148)">
+        <rect width="82" height="20" rx="4" fill="#3fb950" fill-opacity="0.083" stroke="#3fb950" stroke-opacity="0.25" />
+        <text x="41" y="14" fill="#3fb950" class="font-mono tag-text" text-anchor="middle">Next.js 15</text>
+      </g>
+    </g>
+  </a>
+
+  <!-- Card 2: AI Form Helper -->
+  <a href="https://chromewebstore.google.com/detail/quizbot-ai/eofcjnghgenmffccgkapnibajagkfoao" target="_blank">
+    <g transform="translate(406, 20)" class="card-link">
+      <rect width="374" height="184" rx="8" class="card-bg" />
+      <rect x="0" y="8" width="3" height="168" fill="#e3b341" />
+      <text x="16" y="28" fill="#e3b341" class="font-mono label">30+ USERS ↗</text>
+      <text x="16" y="48" class="font-mono title">AI Form Helper</text>
+      <text x="16" y="68" class="font-mono desc">
+        <tspan x="16" dy="0">Chrome extension with Groq API + LLaMA 3.3</tspan>
+        <tspan x="16" dy="16">70B. 30+ organic Web Store installs.</tspan>
+        <tspan x="16" dy="16">Zero server cost — pure edge inference.</tspan>
+      </text>
+      <g transform="translate(16, 148)">
+        <rect width="68" height="20" rx="4" fill="#e3b341" fill-opacity="0.083" stroke="#e3b341" stroke-opacity="0.25" />
+        <text x="34" y="14" fill="#e3b341" class="font-mono tag-text" text-anchor="middle">Groq API</text>
+      </g>
+      <g transform="translate(90, 148)">
+        <rect width="75" height="20" rx="4" fill="#e3b341" fill-opacity="0.083" stroke="#e3b341" stroke-opacity="0.25" />
+        <text x="37.5" y="14" fill="#e3b341" class="font-mono tag-text" text-anchor="middle">LLaMA 3.3</text>
+      </g>
+      <g transform="translate(171, 148)">
+        <rect width="82" height="20" rx="4" fill="#e3b341" fill-opacity="0.083" stroke="#e3b341" stroke-opacity="0.25" />
+        <text x="41" y="14" fill="#e3b341" class="font-mono tag-text" text-anchor="middle">TypeScript</text>
+      </g>
+    </g>
+  </a>
+
+  <!-- Card 3: FAANG Prep -->
+  <a href="https://leetcode.com/u/Raja_retnam/" target="_blank">
+    <g transform="translate(20, 216)" class="card-link">
+      <rect width="374" height="184" rx="8" class="card-bg" />
+      <rect x="0" y="8" width="3" height="168" fill="#58a6ff" />
+      <text x="16" y="28" fill="#58a6ff" class="font-mono label">DSA GRIND ↗</text>
+      <text x="16" y="48" class="font-mono title">FAANG Prep · Java</text>
+      <text x="16" y="68" class="font-mono desc">
+        <tspan x="16" dy="0">Active LeetCode grind in Java. Two-pointer,</tspan>
+        <tspan x="16" dy="16">sliding window, DP, Trees, Graphs.</tspan>
+        <tspan x="16" dy="16">Targeting SDE-1 on-campus placements</tspan>
+        <tspan x="16" dy="16">2027.</tspan>
+      </text>
+      <g transform="translate(16, 148)">
+        <rect width="45" height="20" rx="4" fill="#58a6ff" fill-opacity="0.083" stroke="#58a6ff" stroke-opacity="0.25" />
+        <text x="22.5" y="14" fill="#58a6ff" class="font-mono tag-text" text-anchor="middle">Java</text>
+      </g>
+      <g transform="translate(67, 148)">
+        <rect width="102" height="20" rx="4" fill="#58a6ff" fill-opacity="0.083" stroke="#58a6ff" stroke-opacity="0.25" />
+        <text x="51" y="14" fill="#58a6ff" class="font-mono tag-text" text-anchor="middle">System Design</text>
+      </g>
+      <g transform="translate(175, 148)">
+        <rect width="52" height="20" rx="4" fill="#58a6ff" fill-opacity="0.083" stroke="#58a6ff" stroke-opacity="0.25" />
+        <text x="26" y="14" fill="#58a6ff" class="font-mono tag-text" text-anchor="middle">FAANG</text>
+      </g>
+    </g>
+  </a>
+
+  <!-- Card 4: Portfolio -->
+  <a href="https://rajaretnam.tech/" target="_blank">
+    <g transform="translate(406, 216)" class="card-link">
+      <rect width="374" height="184" rx="8" class="card-bg" />
+      <rect x="0" y="8" width="3" height="168" fill="#a78bfa" />
+      <text x="16" y="28" fill="#a78bfa" class="font-mono label">PORTFOLIO ↗</text>
+      <text x="16" y="48" class="font-mono title">rajaretnam.tech</text>
+      <text x="16" y="68" class="font-mono desc">
+        <tspan x="16" dy="0">Cinematic React/TS portfolio from scratch.</tspan>
+        <tspan x="16" dy="16">Framer Motion + GSAP animations. Intro</tspan>
+        <tspan x="16" dy="16">screen, gate animation, hero video —</tspan>
+        <tspan x="16" dy="16">full custom.</tspan>
+      </text>
+      <g transform="translate(16, 148)">
+        <rect width="75" height="20" rx="4" fill="#a78bfa" fill-opacity="0.083" stroke="#a78bfa" stroke-opacity="0.25" />
+        <text x="37.5" y="14" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">React/TS</text>
+      </g>
+      <g transform="translate(97, 148)">
+        <rect width="102" height="20" rx="4" fill="#a78bfa" fill-opacity="0.083" stroke="#a78bfa" stroke-opacity="0.25" />
+        <text x="51" y="14" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">Framer Motion</text>
+      </g>
+      <g transform="translate(205, 148)">
+        <rect width="45" height="20" rx="4" fill="#a78bfa" fill-opacity="0.083" stroke="#a78bfa" stroke-opacity="0.25" />
+        <text x="22.5" y="14" fill="#a78bfa" class="font-mono tag-text" text-anchor="middle">GSAP</text>
+      </g>
+    </g>
+  </a>
+
+</svg>
